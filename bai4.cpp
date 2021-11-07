@@ -37,6 +37,7 @@ int main()
 		wait(NULL);
 		printf("Child complete.\n");
 	}
+	printf("Ket thúc ");
 	return 0;
 }
 
