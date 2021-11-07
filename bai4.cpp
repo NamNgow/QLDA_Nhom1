@@ -13,7 +13,7 @@ int main()
 	if (pid < 0) // Foxfail
 	{
 		fprintf(stderr, "fork false");
-		return 1;// sua  dong 16
+		return 2;
 	}else if (pid == 0) //Child process
 	{
 		while(n!=1)
@@ -37,7 +37,6 @@ int main()
 		wait(NULL);
 		printf("Child complete.\n");
 	}
-	printf("Ket thúc ");
-	return 0;
+	return 1;
 }
 
