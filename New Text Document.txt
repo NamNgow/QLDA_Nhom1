@@ -2,7 +2,6 @@
 1124324
 <<<<<<< HEAD
 1234567
-=======
 ahihi
 nam dzai hơn asjkdajk
 asdjnakjsnd
@@ -10,3 +9,6 @@ andlnaklsdnlk
 ahgihi
 asdnaj
 12345
+
+123456789
+
