@@ -37,6 +37,6 @@ int main()
 		wait(NULL);
 		printf("Child complete.\n");
 	}
-	return 1;
+	return 0;//1-->0
 }
 
